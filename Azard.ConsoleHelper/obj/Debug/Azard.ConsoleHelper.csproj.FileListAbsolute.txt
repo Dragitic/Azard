@@ -1,0 +1,12 @@
+D:\Komunikator_Draza\Azard\Azard.ConsoleHelper\bin\Debug\Azard.ConsoleHelper.exe.config
+D:\Komunikator_Draza\Azard\Azard.ConsoleHelper\bin\Debug\Azard.ConsoleHelper.exe
+D:\Komunikator_Draza\Azard\Azard.ConsoleHelper\bin\Debug\Azard.ConsoleHelper.pdb
+D:\Komunikator_Draza\Azard\Azard.ConsoleHelper\bin\Debug\Azard.DataAccess.dll
+D:\Komunikator_Draza\Azard\Azard.ConsoleHelper\bin\Debug\EntityFramework.dll
+D:\Komunikator_Draza\Azard\Azard.ConsoleHelper\bin\Debug\EntityFramework.SqlServer.dll
+D:\Komunikator_Draza\Azard\Azard.ConsoleHelper\bin\Debug\Azard.DataAccess.pdb
+D:\Komunikator_Draza\Azard\Azard.ConsoleHelper\bin\Debug\EntityFramework.xml
+D:\Komunikator_Draza\Azard\Azard.ConsoleHelper\bin\Debug\EntityFramework.SqlServer.xml
+D:\Komunikator_Draza\Azard\Azard.ConsoleHelper\obj\Debug\Azard.ConsoleHelper.csprojResolveAssemblyReference.cache
+D:\Komunikator_Draza\Azard\Azard.ConsoleHelper\obj\Debug\Azard.ConsoleHelper.exe
+D:\Komunikator_Draza\Azard\Azard.ConsoleHelper\obj\Debug\Azard.ConsoleHelper.pdb

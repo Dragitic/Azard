@@ -1,0 +1,7 @@
+D:\Komunikator_Draza\Azard\Azard.DataAccess\bin\Debug\Azard.DataAccess.dll
+D:\Komunikator_Draza\Azard\Azard.DataAccess\bin\Debug\Azard.DataAccess.pdb
+D:\Komunikator_Draza\Azard\Azard.DataAccess\bin\Debug\EntityFramework.dll
+D:\Komunikator_Draza\Azard\Azard.DataAccess\bin\Debug\EntityFramework.xml
+D:\Komunikator_Draza\Azard\Azard.DataAccess\obj\Debug\Azard.DataAccess.csprojResolveAssemblyReference.cache
+D:\Komunikator_Draza\Azard\Azard.DataAccess\obj\Debug\Azard.DataAccess.dll
+D:\Komunikator_Draza\Azard\Azard.DataAccess\obj\Debug\Azard.DataAccess.pdb

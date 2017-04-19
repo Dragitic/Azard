@@ -1,0 +1,5 @@
+D:\Komunikator_Draza\Azard\Azard.Common.Models\bin\Debug\Azard.Common.Models.dll
+D:\Komunikator_Draza\Azard\Azard.Common.Models\bin\Debug\Azard.Common.Models.pdb
+D:\Komunikator_Draza\Azard\Azard.Common.Models\obj\Debug\Azard.Common.Models.csprojResolveAssemblyReference.cache
+D:\Komunikator_Draza\Azard\Azard.Common.Models\obj\Debug\Azard.Common.Models.dll
+D:\Komunikator_Draza\Azard\Azard.Common.Models\obj\Debug\Azard.Common.Models.pdb

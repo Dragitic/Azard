@@ -1,0 +1,7 @@
+D:\Komunikator_Draza\Azard\Azard.Common.Infrastructure\bin\Debug\Azard.Common.Infrastructure.dll
+D:\Komunikator_Draza\Azard\Azard.Common.Infrastructure\bin\Debug\Azard.Common.Infrastructure.pdb
+D:\Komunikator_Draza\Azard\Azard.Common.Infrastructure\bin\Debug\Azard.Common.Models.dll
+D:\Komunikator_Draza\Azard\Azard.Common.Infrastructure\bin\Debug\Azard.Common.Models.pdb
+D:\Komunikator_Draza\Azard\Azard.Common.Infrastructure\obj\Debug\Azard.Common.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Komunikator_Draza\Azard\Azard.Common.Infrastructure\obj\Debug\Azard.Common.Infrastructure.dll
+D:\Komunikator_Draza\Azard\Azard.Common.Infrastructure\obj\Debug\Azard.Common.Infrastructure.pdb
